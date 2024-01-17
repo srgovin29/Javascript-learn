@@ -7,6 +7,13 @@ var c = 5;
 if (a < b)
   gs.info('a is less than b');
 
+if (a < b) 
+{
+  gs.info('a is less than b')
+  gs.info('Srini was here')
+}
+
+
 // else
 if (a < b)
   gs.info('a is less than b');
